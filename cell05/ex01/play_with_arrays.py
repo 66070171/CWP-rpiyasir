@@ -1,0 +1,16 @@
+#!/usr/bin/env python3
+
+numbers = [2, 8, 9, 48, 8, 22, -12, 2]
+new_numbers = []
+
+for n in numbers:
+    new_numbers.append(n + 2)
+
+print("Original array:", numbers)
+print("New array:", new_numbers)
+
+# วิธีรันบน Linux:
+#   chmod +x play_with_arrays.py   <- ทำครั้งเดียว ให้ไฟล์รันได้
+#
+#   ตัวอย่างทั้งหมดจากโจทย์:
+#   ./play_with_arrays.py
