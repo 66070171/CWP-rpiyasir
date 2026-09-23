@@ -7,7 +7,7 @@ print("Thank you!")
 
 print(first, "+", second, "=", first + second)
 print(first, "-", second, "=", first - second)
-print(first, "/", second, "=", first // second)
+print(first, "/", second, "=", first / second)
 print(first, "*", second, "=", first * second)
 
 # วิธีรันบน Linux:
